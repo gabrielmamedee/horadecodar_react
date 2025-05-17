@@ -1,4 +1,5 @@
 import './App.css'
+import CarrinhoDeCompras from './components/CarrinhoDeCompras'
 import Contador from './components/Contador'
 import ListaDeFrutas from './components/ListaDeFrutas'
 import ListaDeNomes from './components/ListaDeNomes'
@@ -19,6 +20,8 @@ function App() {
       <Multiplicador/>
       <br />
       <ListaDeFrutas/>
+      <br />
+      <CarrinhoDeCompras/>
     </>
   )
 }
