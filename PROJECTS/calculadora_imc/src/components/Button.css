@@ -3,6 +3,7 @@ button {
     padding: 1rem 1.5rem;
     background-color: #F44236;
     border: none;
+    border-radius: 12px;
     color: #fff;
     cursor: pointer;
     opacity: .9;

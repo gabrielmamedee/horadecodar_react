@@ -24,6 +24,7 @@
 
  .form-control input {
     padding: 1rem 0.5rem ;
+    border-radius: 8px;
  }
 
  .action-control {
