@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+}
+
+body {
+    background-color: #090322;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    height: 100vh ;
+    color: #fff ;
+}
